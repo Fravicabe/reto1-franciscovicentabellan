@@ -1,0 +1,1 @@
+Por mi cuenta quiero crear una web para un juego llamado Neverwinter Nights donde usando una base de datos externa conectado al juego se pueda afectar al mismo desde la web, la cual necesitará de permisos, pues el administrador podrá modificar cosas más importantes mientras que los jugadores menos, etc. 
